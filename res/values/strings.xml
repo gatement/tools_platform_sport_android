@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">sport</string>    
+    
+    <string name="about_activity_title">About johnsonsport</string>
+    <string name="about_author">Author: Johnson Lau</string>
+    <string name="about_email">Email: gatement@gmail.com</string>
+    <string name="about_back">Back</string>
+    
+    <string name="main_start_btn">START</string>
+    <string name="main_menu_upload">Upload</string>
+    <string name="main_menu_clear">Clear</string>
+    <string name="main_menu_settings">Settings</string>
+    <string name="main_menu_about">About</string>    
+    
+    <string name="settings_activity_title">Settings</string>
+    <string name="settings_service_url">Service</string>
+    <string name="settings_user">User</string>
+    <string name="settings_password">Password</string>
+    <string name="settings_counter_iteration1">Counter: Iteration1</string>
+    <string name="settings_counter_iteration2">Counter: Iteration2</string>
+    <string name="settings_counter_iteration3">Counter: Iteration3</string>
+    <string name="settings_counter_iteration4">Counter: Iteration4</string>
+    <string name="settings_counter_iteration5">Counter: Iteration5</string>
+    <string name="settings_counter_order">Counter: Order</string>
+    <string name="settings_counter_enable_voice_title">Counter:</string>
+    <string name="settings_counter_enable_voice_text">Enable Voice</string>    
+    <string name="settings_counter_end_text">Counter: End Text</string>
+    <string name="settings_timer_time_minutes">Timer: Minutes</string>
+    <string name="settings_timer_time_seconds">Timer: Seconds</string>
+    <string name="settings_timer_end_text">Timer: End Text</string>    
+    <string name="settings_save">Save</string> 
+    
+</resources>
